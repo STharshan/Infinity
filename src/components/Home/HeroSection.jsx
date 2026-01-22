@@ -54,7 +54,7 @@ const HeroSection = () => {
           data-aos="fade-up"
           data-aos-delay="300"
         >
-          Infinity Detailing Ltd
+          Finer Details
         </p>
 
         {/* CTA Button */}
